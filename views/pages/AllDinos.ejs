@@ -1,0 +1,15 @@
+<%- include('partials/header') %>
+
+<h1> Ici vous aurez la liste des dinosaures que présente le site</h1>
+
+<ul class = "dinoList">
+<% for (const animal of infoDino) {%>
+    <li class =" card-dino">
+    <p>
+        <a href ="/AllDinos/<%=animal.nom%>">
+       <%=animal.nom%>
+        </a>
+    </p>
+    </li>
+    <%}%>
+</ul>

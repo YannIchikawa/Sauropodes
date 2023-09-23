@@ -1,0 +1,912 @@
+[
+  {
+    "nom": "Paralititan",
+    "Nom_scientifique": "Paralititan stromeri",
+    "etymologie": "géant du littoral",
+    "classification": "Sauropode",
+    "sous_classification": "Titanosauridés",
+    "espèces": 1,
+    "Epoque": "cretace (96-92 Ma.)",
+    "Longueur_en_m": "25",
+    "Hauteur_en_m": "7 - 9",
+    "Poids_en_tonnes": "50 - 80",
+    "Localisation": "Egypte",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "janv - fév 2000 (décrit en 2001)",
+    "notes": "not yet"
+  },
+  {
+    "nom": "Brachiosaure",
+    "etymologie": "Lézard à bras",
+    "classification": "Sauropode",
+    "sous_classification": "brachiosauridae",
+    "espèces": 1,
+    "Epoque": "Jurassique sup. (146-135 Ma.)",
+    "Longueur_en_m": "26",
+    "Hauteur_en_m": "12",
+    "Poids_en_tonnes": "30 - 80",
+    "Localisation": "Amérique Nord, Europe, Afrique",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "1900",
+    "notes": "not yet"
+  },
+  {
+    "nom": "Vouvria",
+    "Nom_scientifique": "Vouivria damparisensis",
+    "etymologie": "Vipère résidente du Damparis",
+    "classification": "Sauropode",
+    "sous_classification": "brachiosauridae",
+    "espèces": 1,
+    "Epoque": "Jurassique (163-157 Ma.)",
+    "Longueur_en_m": "15",
+    "Hauteur_en_m": "10",
+    "Poids_en_tonnes": "15",
+    "Localisation": "France",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "1934",
+    "notes": "not yet"
+  },
+  {
+    "nom": "Venenosaure",
+    "Nom_scientifique": "Venenosaurus dicrocei",
+    "etymologie": "lézard poison de mr DiCroce",
+    "classification": "Sauropode",
+    "sous_classification": "brachiosauridae",
+    "espèces": 1,
+    "Epoque": "Cretace (113 Ma.)",
+    "Longueur_en_m": "10",
+    "Hauteur_en_m": "8",
+    "Poids_en_tonnes": "NR",
+    "Localisation": "USA : Utah",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "1998",
+    "notes": "not yet"
+  },
+  {
+    "nom": "Sonorasaurus",
+    "Nom_scientifique": "Sonorasaurus thompsoni",
+    "etymologie": "Lézard de Sorona de mr Thompson",
+    "classification": "Sauropode",
+    "sous_classification": "brachiosauridae",
+    "espèces": 1,
+    "Epoque": "Cretace (112-93 Ma.)",
+    "Longueur_en_m": "15",
+    "Hauteur_en_m": "10",
+    "Poids_en_tonnes": "30 - 80",
+    "Localisation": "USA : Utah",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "1998",
+    "notes": "not yet"
+  },
+  {
+    "nom": "Sauroposeidon",
+    "Nom_scientifique": "Sauroposeidon",
+    "etymologie": "Dieu des tremblements de terre",
+    "classification": "Sauropode",
+    "sous_classification": "brachiosauridae",
+    "espèces": 2,
+    "Epoque": "Cretace (115-110 Ma.)",
+    "Longueur_en_m": "28-34",
+    "Hauteur_en_m": "17",
+    "Poids_en_tonnes": "50-60",
+    "Localisation": "USA : Oklahoma",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "1994",
+    "notes": "not yet"
+  },
+  {
+    "nom": "Pelorosaurus",
+    "Nom_scientifique": "Pelorosaurus conybeari",
+    "etymologie": "Lézard monstrueux",
+    "classification": "Sauropode",
+    "sous_classification": "brachiosauridae",
+    "espèces": 3,
+    "Epoque": "Cretace (140-125 Ma.)",
+    "Longueur_en_m": "24",
+    "Hauteur_en_m": "NR",
+    "Poids_en_tonnes": "NR",
+    "Localisation": "Europe :Angleterre, Portugal",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "1842",
+    "notes": "de nombreux doutes existent sur l'existence des 3 espèces de ce dinosaure"
+  },
+  {
+    "nom": "Lusotitan",
+    "Nom_scientifique": "Lusotitan atalaiensis",
+    "etymologie": "titan lusitanien",
+    "classification": "Sauropode",
+    "sous_classification": "brachiosauridae",
+    "espèces": 1,
+    "Epoque": "Cretace (149-145 Ma.)",
+    "Longueur_en_m": "21",
+    "Hauteur_en_m": "11",
+    "Poids_en_tonnes": "NR",
+    "Localisation": "Europe :Portugal",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "1957",
+    "notes": "not yet"
+  },
+  {
+    "nom": "Lapparentosaurus",
+    "Nom_scientifique": "Lapparentosaurus madagascariensis",
+    "etymologie": "Lézard de mr Lapparent",
+    "classification": "Sauropode",
+    "sous_classification": "brachiosauridae",
+    "espèces": 1,
+    "Epoque": "Jurassique (168-165 Ma.)",
+    "Longueur_en_m": "15-20",
+    "Hauteur_en_m": "NR",
+    "Poids_en_tonnes": "NR",
+    "Localisation": "Afrique : Madagascar",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "1895",
+    "notes": "not yet"
+  },
+  {
+    "nom": "Giraffatitan",
+    "Nom_scientifique": "Giraffatitan brancai",
+    "etymologie": "Titan Girafe",
+    "classification": "Sauropode",
+    "sous_classification": "brachiosauridae",
+    "espèces": 1,
+    "Epoque": "Jurassique (150-145 Ma.)",
+    "Longueur_en_m": "24-25",
+    "Hauteur_en_m": "13-14",
+    "Poids_en_tonnes": "45-78",
+    "Localisation": "Afrique : Tanzanie",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "1988",
+    "notes": "not yet"
+  },
+  {
+    "nom": "Abydosaure",
+    "Nom_scientifique": "Abydosaurus mcintoshi",
+    "etymologie": "Lézard d'Abydos de mr McIntosh",
+    "classification": "Sauropode",
+    "sous_classification": "brachiosauridae",
+    "espèces": 1,
+    "Epoque": "Cretace (109-105 Ma.)",
+    "Longueur_en_m": "NR",
+    "Hauteur_en_m": "NR",
+    "Poids_en_tonnes": "NR",
+    "Localisation": "USA : Utah",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "2001",
+    "notes": "not yet"
+  },
+  {
+    "nom": "Europasaurus",
+    "Nom_scientifique": "Europasaurus Holgeri",
+    "etymologie": "Lézard européen",
+    "classification": "Sauropode",
+    "sous_classification": "brachiosauridae",
+    "espèces": 1,
+    "Epoque": "Jurassique (154 Ma.)",
+    "Longueur_en_m": "6",
+    "Hauteur_en_m": "3",
+    "Poids_en_tonnes": "1",
+    "Localisation": "Europe: Allemagne",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "2006",
+    "notes": "not yet"
+  },
+  {
+    "nom": "Duriatitan",
+    "Nom_scientifique": "Duriatitan Humerocristatus",
+    "etymologie": "Titan de Duria",
+    "classification": "Sauropode",
+    "sous_classification": "brachiosauridae",
+    "espèces": 1,
+    "Epoque": "Jurassique (150 Ma.)",
+    "Longueur_en_m": "18-20",
+    "Hauteur_en_m": "6",
+    "Poids_en_tonnes": "NR",
+    "Localisation": "Europe: Angleterre",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "1874",
+    "notes": "not yet"
+  },
+  {
+    "nom": "Daanosaurus","Nom_scientifique": "Daanosaurus zhangi","etymologie": "Lézard de Da'an","classification": "Sauropode",
+    "sous_classification": "brachiosauridae","espèces": 1,"Epoque": "Jurassique (163-145 Ma.)","Longueur_en_m": "NR","Hauteur_en_m": "NR","Poids_en_tonnes": "NR",
+    "Localisation": "Asie: Chine","Régime_alimentaire": "végétivore","decouverte": "2005","notes": "not yet"
+  },
+  {
+    "nom": "Cedarosaure",
+    "Nom_scientifique": "Cedarosaurus weiskopfae",
+    "etymologie": "Lézard des montagnes du cedar",
+    "classification": "Sauropode",
+    "sous_classification": "brachiosauridae",
+    "espèces": 1,
+    "Epoque": "Cretace (139-136 Ma.)",
+    "Longueur_en_m": "20",
+    "Hauteur_en_m": "8",
+    "Poids_en_tonnes": "NR",
+    "Localisation": "USA : Utah",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "1999",
+    "notes": "not yet"
+  },
+  {
+    "nom": "Astrodon",
+    "Nom_scientifique": "Astrodon Johnstoni",
+    "etymologie": "Dent en étoile",
+    "classification": "Sauropode",
+    "sous_classification": "brachiosauridae",
+    "espèces": 1,
+    "Epoque": "Cretace (112-110 Ma.)",
+    "Longueur_en_m": "18",
+    "Hauteur_en_m": "9",
+    "Poids_en_tonnes": "20",
+    "Localisation": "USA : Oklahomma, Maryland",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "1859",
+    "notes": "not yet"
+  },
+  {
+    "nom": "Atlasaurus",
+    "Nom_scientifique": "Atlasaurus imelakei",
+    "etymologie": "Grand reptile de l'atlas",
+    "classification": "Sauropode",
+    "sous_classification": "brachiosauridae",
+    "espèces": 1,
+    "Epoque": "Jurassique (167-164 Ma.)",
+    "Longueur_en_m": "15",
+    "Hauteur_en_m": "NR",
+    "Poids_en_tonnes": "222",
+    "Localisation": "Afrique: Maroc",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "1999",
+    "notes": "not yet"
+  },
+  {
+    "nom": "Diplodocus",
+    "Nom_scientifique": "Diplodocus Longus",
+    "etymologie": "Double poutre",
+    "classification": "Sauropode",
+    "sous_classification": "Diplodocidae",
+    "espèces": 3,
+    "Epoque": "Jurassique (154-152 Ma.)",
+    "Longueur_en_m": "28",
+    "Hauteur_en_m": "6",
+    "Poids_en_tonnes": "15",
+    "Localisation": "Amérique du Nord",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "1878",
+    "notes": "not yet"
+  },
+  {
+    "nom": "Apatosaure",
+    "Nom_scientifique": "Apatosaurus ajax",
+    "etymologie": "Lézard trompeur",
+    "classification": "Sauropode",
+    "sous_classification": "Diplodocidae",
+    "espèces": 2,
+    "Epoque": "Jurassique (156-146 Ma.)",
+    "Longueur_en_m": "23",
+    "Hauteur_en_m": "8",
+    "Poids_en_tonnes": "22",
+    "Localisation": "Amérique du Nord",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "1877",
+    "notes": "not yet"
+  },
+  {
+    "nom": "Brontosaure",
+    "Nom_scientifique": "Apatosaurus ajax",
+    "etymologie": "Lézard tonnerre",
+    "classification": "Sauropode",
+    "sous_classification": "Diplodocidae",
+    "espèces": 3,
+    "Epoque": "Jurassique (152-150 Ma.)",
+    "Longueur_en_m": "23",
+    "Hauteur_en_m": "8",
+    "Poids_en_tonnes": "22",
+    "Localisation": "Amérique du Nord",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "1877",
+    "notes": "not yet"
+  },
+  {
+    "nom": "Argentinosaure",
+    "Nom_scientifique": "Argentinosaurus huinculensis",
+    "etymologie": "Lézard d'Argentine",
+    "classification": "Sauropode",
+    "sous_classification": "Titanosauria",
+    "espèces": 3,
+    "Epoque": "Cretacé (96-92 Ma.)",
+    "Longueur_en_m": "30",
+    "Hauteur_en_m": "12",
+    "Poids_en_tonnes": "80",
+    "Localisation": "Amérique du Sud : Argentine",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "1993",
+    "notes": "not yet"
+  },
+  {
+    "nom": "Camarasaure",
+    "Nom_scientifique": "Camarasaurus Supremus",
+    "etymologie": "Lézard à chambres",
+    "classification": "Sauropode",
+    "sous_classification": "Camarasauria",
+    "espèces": 4,
+    "Epoque": "Jurassique (155-145 Ma.)",
+    "Longueur_en_m": "18-23",
+    "Hauteur_en_m": "NR",
+    "Poids_en_tonnes": "47",
+    "Localisation": "Amérique du Nord",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "1877",
+    "notes": "not yet"
+  },
+  {
+    "nom": "Cetiosaure",
+    "Nom_scientifique": "Cetiosaurus oxoniensis",
+    "etymologie": "Lézard baleine",
+    "classification": "Sauropode",
+    "sous_classification": "Cetiosaurinae",
+    "espèces": 2,
+    "Epoque": "Jurassique (170-166 Ma.)",
+    "Longueur_en_m": "16",
+    "Hauteur_en_m": "NR",
+    "Poids_en_tonnes": "11",
+    "Localisation": "Europe : France, Angleterre, Suisse, Afrique: Maroc",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "1842",
+    "notes": "not yet"
+  },
+  {
+    "nom": "Atlantosaurus",
+    "Nom_scientifique": "Atlantosaure montanus",
+    "etymologie": "Lézard de l'Atlantis",
+    "classification": "Sauropode",
+    "sous_classification": "Diplodocidae",
+    "espèces": 2,
+    "Epoque": "Jurassique (150 Ma.)",
+    "Longueur_en_m": "24",
+    "Hauteur_en_m": "NR",
+    "Poids_en_tonnes": "NR",
+    "Localisation": "USA : Colorado",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "1877",
+    "notes": "not yet"
+  },
+  {
+    "nom": "Kaatedocus",
+    "Nom_scientifique": "Kaatedocus siberi",
+    "etymologie": "Petit Diplodocus",
+    "classification": "Sauropode",
+    "sous_classification": "Diplodocidae",
+    "espèces": 1,
+    "Epoque": "Jurassique (150 Ma.)",
+    "Longueur_en_m": "15",
+    "Hauteur_en_m": "4",
+    "Poids_en_tonnes": "8",
+    "Localisation": "USA : Wyoming",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "2012",
+    "notes": "not yet"
+  },
+  {
+    "nom": "Tornieria",
+    "Nom_scientifique": "Torniera Africana",
+    "etymologie": "en hommage a mr Tornier",
+    "classification": "Sauropode",
+    "sous_classification": "Diplodocidae",
+    "espèces": 1,
+    "Epoque": "Jurassique (152-145 Ma.)",
+    "Longueur_en_m": "26",
+    "Hauteur_en_m": "NR",
+    "Poids_en_tonnes": "23",
+    "Localisation": "Afrique : Tanzanie",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "1908",
+    "notes": "not yet"
+  },
+  {
+    "nom": "Supersaurus",
+    "Nom_scientifique": "Supersaurus Vivianae",
+    "etymologie": "Super Lézard",
+    "classification": "Sauropode",
+    "sous_classification": "Diplodocidae",
+    "espèces": 1,
+    "Epoque": "Jurassique (157-145 Ma.)",
+    "Longueur_en_m": "33-34",
+    "Hauteur_en_m": "NR",
+    "Poids_en_tonnes": "32-36",
+    "Localisation": "Amérique du Nord: Colorado, Europe : Portugal",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "1972",
+    "notes": "not yet"
+  },
+  {
+    "nom": "Leinkupal",
+    "Nom_scientifique": "Leinkupal laticauda",
+    "etymologie": "Famille disparue à large queue",
+    "classification": "Sauropode",
+    "sous_classification": "Diplodocidae",
+    "espèces": 1,
+    "Epoque": "Jurassique et Crétacé (142-133 Ma.)",
+    "Longueur_en_m": "9",
+    "Hauteur_en_m": "NR",
+    "Poids_en_tonnes": "NR",
+    "Localisation": "Amérique du Sud : Argentine",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "2014",
+    "notes": "not yet"
+  },
+  {
+    "nom": " Galeamopus",
+    "Nom_scientifique": "Galeamopus hayi",
+    "etymologie": "Qui a besoin d'un casque",
+    "classification": "Sauropode",
+    "sous_classification": "Diplodocidae",
+    "espèces": 2,
+    "Epoque": "Jurassique (155 Ma.)",
+    "Longueur_en_m": "27",
+    "Hauteur_en_m": "NR",
+    "Poids_en_tonnes": "NR",
+    "Localisation": "Amérique du Nord : Wyoming",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "1924",
+    "notes": "not yet"
+  },
+  {
+    "nom": " Barosaure",
+    "Nom_scientifique": "Barosaurus lentus",
+    "etymologie": "Lézard Lourd",
+    "classification": "Sauropode",
+    "sous_classification": "Diplodocidae",
+    "espèces": 2,
+    "Epoque": "Jurassique (152 Ma.)",
+    "Longueur_en_m": "26",
+    "Hauteur_en_m": "NR",
+    "Poids_en_tonnes": "12-20",
+    "Localisation": "Amérique du Nord : Wyoming",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "1890",
+    "notes": "not yet"
+  },
+  {
+    "nom": "Dicraeosaurus",
+    "Nom_scientifique": "Dicraeosaurus",
+    "etymologie": "Lézard Bifurqué",
+    "classification": "Sauropode",
+    "sous_classification": "Diplodocidae",
+    "espèces": 2,
+    "Epoque": "Jurassique (150 Ma.)",
+    "Longueur_en_m": "14",
+    "Hauteur_en_m": "NR",
+    "Poids_en_tonnes": "6",
+    "Localisation": "Afrique : Tanzanie",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "1914",
+    "notes": "not yet"
+  },
+  {
+    "nom": "Amargasaurus",
+    "Nom_scientifique": "Amargasaurus Cazaui",
+    "etymologie": "Lézard d'Amarga",
+    "classification": "Sauropode",
+    "sous_classification": "Diplodocidae",
+    "espèces": 1,
+    "Epoque": "Crétacé (130 Ma.)",
+    "Longueur_en_m": "9-12",
+    "Hauteur_en_m": "4",
+    "Poids_en_tonnes": "3",
+    "Localisation": "Amérique du Sud : Argentine",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "1991",
+    "notes": "not yet"
+  },
+  {
+    "nom": "brachytrachelopan",
+    "Nom_scientifique": "brachytrachelopan Mesai",
+    "etymologie": "Trachée artère courte",
+    "classification": "Sauropode",
+    "sous_classification": "Diplodocidae",
+    "espèces": 1,
+    "Epoque": "Jurassique (150 Ma.)",
+    "Longueur_en_m": "10",
+    "Hauteur_en_m": "3",
+    "Poids_en_tonnes": "NR",
+    "Localisation": "Amérique du Sud : Argentine",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "2005",
+    "notes": "not yet"
+  },
+  {
+    "nom": "Dystrophaeus",
+    "Nom_scientifique": "Dystrophaeus viaemalae",
+    "etymologie": "Articulation grossière",
+    "classification": "Sauropode",
+    "sous_classification": "Diplodocidae",
+    "espèces": 1,
+    "Epoque": "Jurassique (158-155 Ma.)",
+    "Longueur_en_m": "13",
+    "Hauteur_en_m": "NR",
+    "Poids_en_tonnes": "7-12",
+    "Localisation": "Amérique du Nord : Utah",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "1877",
+    "notes": "not yet"
+  },
+  {
+    "nom": "Suuwassea",
+    "Nom_scientifique": "Suuwassea emiliae",
+    "etymologie": "le premier tonnerre entendu au printemps ",
+    "classification": "Sauropode",
+    "sous_classification": "Diplodocidae",
+    "espèces": 1,
+    "Epoque": "Jurassique (147 Ma.)",
+    "Longueur_en_m": "12",
+    "Hauteur_en_m": "4",
+    "Poids_en_tonnes": "NR",
+    "Localisation": "Amérique du Nord : Montana",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "2004",
+    "notes": "not yet"
+  },
+  {
+    "nom": "Dyslocosaure","Nom_scientifique": "Dyslocosaurus polyonychiusi","etymologie": "Lézard difficile à situer avec plusieurs griffes",
+    "classification": "Sauropode","sous_classification": "Diplodocidae","espèces": 1,"Epoque": "Jurassique (145 Ma.)",
+    "Longueur_en_m": "18","Hauteur_en_m": "NR","Poids_en_tonnes": "6",
+    "Localisation": "Amérique du Nord : Wyoming","Régime_alimentaire": "végétivore","decouverte": "1992","notes": "not yet"
+  },
+  {
+    "nom": "Demandasaure","Nom_scientifique": "Demandasaurus darwini","etymologie": "Lézard demanda",
+    "classification": "Sauropode","sous_classification": "rebbachisauridé ","espèces": 1,"Epoque": "Crétacé (125 Ma.)",
+    "Longueur_en_m": "10","Hauteur_en_m": "NR","Poids_en_tonnes": "NR",
+    "Localisation": "Europe : Espagne","Régime_alimentaire": "végétivore","decouverte": "2011","notes": "not yet"
+  },
+  {
+    "nom": "Nigersaure","Nom_scientifique": "Nigersaurus taqueti","etymologie": "Lézard du Niger de mr taquet",
+    "classification": "Sauropode","sous_classification": "rebbachisauridé ","espèces": 1,"Epoque": "Crétacé (115-105 Ma.)",
+    "Longueur_en_m": "9","Hauteur_en_m": "NR","Poids_en_tonnes": "4",
+    "Localisation": "Afrique : Niger","Régime_alimentaire": "végétivore","decouverte": "1999","notes": "not yet"
+  },
+  {
+    "nom": "Jobaria","Nom_scientifique": "Jobaria tiguidensis","etymologie": "NR",
+    "classification": "Sauropode","sous_classification": "Eusauropode","espèces": 1,"Epoque": "Jurassique (167-161 Ma.)",
+    "Longueur_en_m": "16-18","Hauteur_en_m": "NR","Poids_en_tonnes": "16-22",
+    "Localisation": "Afrique : Niger","Régime_alimentaire": "végétivore","decouverte": "1997","notes": "not yet"
+  },
+  {
+    "nom": "Antarctosaurus","Nom_scientifique": " Antarctosaurus wichmannianus","etymologie": "Lézard du sud",
+    "classification": "Sauropode","sous_classification": "Titanosaurie","espèces": 4,"Epoque": "Crétacé (83Ma.)",
+    "Longueur_en_m": "NR","Hauteur_en_m": "NR","Poids_en_tonnes": "NR",
+    "Localisation": "Amérique du Sud : Argentine","Régime_alimentaire": "végétivore","decouverte": "1929","notes": "not yet"
+  },
+  {
+    "nom": "Limaysaure","Nom_scientifique": " Limaysaurus tessonei","etymologie": "Lézard de Limay",
+    "classification": "Sauropode","sous_classification": "rebbachisauridé ","espèces": 1,"Epoque": "Crétacé (99-97Ma.)",
+    "Longueur_en_m": "15","Hauteur_en_m": "NR","Poids_en_tonnes": "7",
+    "Localisation": "Amérique du Sud : Patagonie","Régime_alimentaire": "végétivore","decouverte": "1995","notes": "not yet"
+  },
+  {
+    "nom": "Tataouinea","Nom_scientifique": "Tataouinea hannibalis","etymologie": "référence a la province de tataouine et à Hannibal",
+    "classification": "Sauropode","sous_classification": "rebbachisauridé ","espèces": 1,"Epoque": "Crétacé (113-110Ma.)",
+    "Longueur_en_m": "14","Hauteur_en_m": "3","Poids_en_tonnes": "NR",
+    "Localisation": "Afrique: Tunisie","Régime_alimentaire": "végétivore","decouverte": "2013","notes": "not yet"
+  },
+  {
+    "nom": "Katepensaure","Nom_scientifique": "Katepensaurus goicoecheai","etymologie": "Lézard troué",
+    "classification": "Sauropode","sous_classification": "rebbachisauridé ","espèces": 1,"Epoque": "Crétacé (100Ma.)",
+    "Longueur_en_m": "NR","Hauteur_en_m": "NR","Poids_en_tonnes": "NR",
+    "Localisation": "Amérique du Sud : Patagonie","Régime_alimentaire": "végétivore","decouverte": "2013","notes": "not yet"
+  },
+  {
+    "nom": "Zapalasaure","Nom_scientifique": "Zapalasaurus bonapartei","etymologie": "Lézard de Zapala",
+    "classification": "Sauropode","sous_classification": "rebbachisauridé ","espèces": 1,"Epoque": "Crétacé (130-120Ma.)",
+    "Longueur_en_m": "NR","Hauteur_en_m": "NR","Poids_en_tonnes": "NR",
+    "Localisation": "Amérique du Sud : Argentine","Régime_alimentaire": "végétivore","decouverte": "2006","notes": "not yet"
+  },
+  {
+    "nom": "Comahuesaure","Nom_scientifique": "Comahuesaurus windhauseni","etymologie": " Lézard Comahue",
+    "classification": "Sauropode","sous_classification": "rebbachisauridé ","espèces": 1,"Epoque": "Crétacé (125-100Ma.)",
+    "Longueur_en_m": "NR","Hauteur_en_m": "NR","Poids_en_tonnes": "NR",
+    "Localisation": "Amérique du Sud : Argentine","Régime_alimentaire": "végétivore","decouverte": "2012","notes": "not yet"
+  },
+  {
+    "nom": "Histriasaure","Nom_scientifique": "Histriasaurus boscarollii","etymologie": " Lézard d'Istrie",
+    "classification": "Sauropode","sous_classification": "rebbachisauridé ","espèces": 1,"Epoque": "Crétacé (135-125 Ma.)",
+    "Longueur_en_m": "NR","Hauteur_en_m": "NR","Poids_en_tonnes": "NR",
+    "Localisation": "Europe: Croatie","Régime_alimentaire": "végétivore","decouverte": "1998","notes": "not yet"
+  },
+  {
+    "nom": "Amazonsaurus","Nom_scientifique": "Amazonsaurus maranhensis","etymologie": " Lézard de l'amazone",
+    "classification": "Sauropode","sous_classification": "rebbachisauridé ","espèces": 1,"Epoque": "Crétacé (125-100Ma.)",
+    "Longueur_en_m": "12","Hauteur_en_m": "NR","Poids_en_tonnes": "5",
+    "Localisation": "Amérique du Sud : Brésil","Régime_alimentaire": "végétivore","decouverte": "2003","notes": "not yet"
+  },
+  {
+    "nom": "Haplocanthosaure","Nom_scientifique": "Haplocanthosaurus priscus","etymologie": " Simple lézard à épines",
+    "classification": "Sauropode","sous_classification": "Diplodocoide","espèces": 2,"Epoque": "jurassique (155-152 Ma.)",
+    "Longueur_en_m": "15","Hauteur_en_m": "NR","Poids_en_tonnes": "13",
+    "Localisation": "Amérique du Nord : Colorado","Régime_alimentaire": "végétivore","decouverte": "1903","notes": "not yet"
+  },
+  {
+    "nom": "Saltasaurus","Nom_scientifique": "Saltasaurus Loricatus","etymologie": " Lézard de Salta",
+    "classification": "Sauropode","sous_classification": "Titanosaurie","espèces": 1,"Epoque": "Crétacé(70-68 Ma.)",
+    "Longueur_en_m": "6-8","Hauteur_en_m": "NR","Poids_en_tonnes": "3",
+    "Localisation": "Amérique du Sud : Argentine","Régime_alimentaire": "végétivore","decouverte": "1980","notes": "not yet"
+  },
+  {
+    "nom": "Andésaure","Nom_scientifique": "Andesaurus delgadoi","etymologie": " Lézard des Andes",
+    "classification": "Sauropode","sous_classification": "Titanosaurie","espèces": 1,"Epoque": "Crétacé(99-97 Ma.)",
+    "Longueur_en_m": "15-18","Hauteur_en_m": "NR","Poids_en_tonnes": "7-8",
+    "Localisation": "Amérique du Sud : Argentine","Régime_alimentaire": "végétivore","decouverte": "1991","notes": "not yet"
+  },
+  {
+    "nom": "Choconsauru","Nom_scientifique": "Choconsaurus baileywillisi","etymologie": " Lézard de Chocon",
+    "classification": "Sauropode","sous_classification": "Titanosaurie","espèces": 1,"Epoque": "Crétacé(100-94 Ma.)",
+    "Longueur_en_m": "NR","Hauteur_en_m": "NR","Poids_en_tonnes": "NR",
+    "Localisation": "Amérique du Sud : Argentine","Régime_alimentaire": "végétivore","decouverte": "2017","notes": "not yet"
+  },
+  {
+    "nom": "Baotianmansaurus","Nom_scientifique": "Baotianmansaurus henanensis","etymologie": " NR",
+    "classification": "Sauropode","sous_classification": "Titanosaurie","espèces": 1,"Epoque": "Crétacé(99-90 Ma.)",
+    "Longueur_en_m": "NR","Hauteur_en_m": "NR","Poids_en_tonnes": "NR",
+    "Localisation": "Chine : henan","Régime_alimentaire": "végétivore","decouverte": "2009","notes": "not yet"
+  },
+  {
+    "nom": "Daxiatitan","Nom_scientifique": "Daxiatitan binglingi","etymologie": " NR",
+    "classification": "Sauropode","sous_classification": "Titanosaurie","espèces": 1,"Epoque": "Crétacé(122 Ma.)",
+    "Longueur_en_m": "23-30","Hauteur_en_m": "NR","Poids_en_tonnes": "23",
+    "Localisation": "Chine : Gansu","Régime_alimentaire": "végétivore","decouverte": "2008","notes": "not yet"
+  },
+  {
+    "nom": "Diamantinasaurus","Nom_scientifique": "Diamantinasaurus matildae","etymologie": "Lézard Diamantina",
+    "classification": "Sauropode","sous_classification": "Titanosaurie","espèces": 1,"Epoque": "Crétacé(95-93 Ma.)",
+    "Longueur_en_m": "16","Hauteur_en_m": "NR","Poids_en_tonnes": "25",
+    "Localisation": "Australie","Régime_alimentaire": "végétivore","decouverte": "2009","notes": "not yet"
+  },
+  {
+    "nom": "Dongyangosaurus","Nom_scientifique": "Dongyangosaurus sinensis","etymologie": "Lézard du Dongyang",
+    "classification": "Sauropode","sous_classification": "Titanosaurie","espèces": 1,"Epoque": "Crétacé(92-88 Ma.)",
+    "Longueur_en_m": "15","Hauteur_en_m": "5","Poids_en_tonnes": "NR",
+    "Localisation": "Chine : Zhejiang","Régime_alimentaire": "végétivore","decouverte": "2008","notes": "not yet"
+  },
+  {
+    "nom": "Malarguesaurus","Nom_scientifique": "Malarguesaurus florenciae","etymologie": " lézard de Malargüe",
+    "classification": "Sauropode","sous_classification": "Titanosaurie","espèces": 1,"Epoque": "Crétacé(90-88 Ma.)",
+    "Longueur_en_m": "NR","Hauteur_en_m": "NR","Poids_en_tonnes": "NR",
+    "Localisation": "Amérique du Sud : Argentine","Régime_alimentaire": "végétivore","decouverte": "2008","notes": "not yet"
+  },
+  {
+    "nom": "Normanniasaurus","Nom_scientifique": "Normanniasaurus genceyi","etymologie": " NR",
+    "classification": "Sauropode","sous_classification": "Titanosaurie","espèces": 1,"Epoque": "Crétacé(113-107 Ma.)",
+    "Longueur_en_m": "NR","Hauteur_en_m": "NR","Poids_en_tonnes": "NR",
+    "Localisation": "Europe : France","Régime_alimentaire": "végétivore","decouverte": "2013","notes": "not yet"
+  },
+  {
+    "nom": "Savannasaure","Nom_scientifique": "Savannasaurus elliottorum","etymologie": " lézard de savanne",
+    "classification": "Sauropode","sous_classification": "Titanosaurie","espèces": 2,"Epoque": "Crétacé(105-94 Ma.)",
+    "Longueur_en_m": "15","Hauteur_en_m": "3","Poids_en_tonnes": "20",
+    "Localisation": "Australie","Régime_alimentaire": "végétivore","decouverte": "2016","notes": "not yet"
+  },
+  {
+    "nom": "Ruyangosaure","Nom_scientifique": "Ruyangosaurus giganteus","etymologie": " lézard du comté de Ruyang ",
+    "classification": "Sauropode","sous_classification": "Titanosaurie","espèces": 1,"Epoque": "Crétacé(120-100 Ma.)",
+    "Longueur_en_m": "25-35","Hauteur_en_m": "NR","Poids_en_tonnes": "34-50",
+    "Localisation": "Chine : henan","Régime_alimentaire": "végétivore","decouverte": "2009","notes": "not yet"
+  },
+  {
+    "nom": "Gobititan","Nom_scientifique": "Gobititan shenzhouensis","etymologie": " lézard du Gobi ",
+    "classification": "Sauropode","sous_classification": "Titanosaurie","espèces": 1,"Epoque": "Crétacé(123-113 Ma.)",
+    "Longueur_en_m": "20","Hauteur_en_m": "NR","Poids_en_tonnes": "20",
+    "Localisation": "Asie: Mongolie","Régime_alimentaire": "végétivore","decouverte": "2003","notes": "not yet"
+  },
+  {
+    "nom": "Ligabuesaure","Nom_scientifique": "Ligabuesaurus leanzai","etymologie": " lézard de mr Ligabue ",
+    "classification": "Sauropode","sous_classification": "Titanosaurie","espèces": 1,"Epoque": "Crétacé(112-109 Ma.)",
+    "Longueur_en_m": "24","Hauteur_en_m": "NR","Poids_en_tonnes": "NR",
+    "Localisation": "Amérique du Sud : Argentine","Régime_alimentaire": "végétivore","decouverte": "2006","notes": "not yet"
+  },
+  {
+    "nom": "Wintonotitan","Nom_scientifique": "Wintonotitan wattsi","etymologie": " titan de Winton ",
+    "classification": "Sauropode","sous_classification": "Titanosaurie","espèces": 1,"Epoque": "Crétacé(95 Ma.)",
+    "Longueur_en_m": "NR","Hauteur_en_m": "NR","Poids_en_tonnes": "NR",
+    "Localisation": "Australie","Régime_alimentaire": "végétivore","decouverte": "2009","notes": "not yet"
+  },
+  {
+    "nom": "Triunfosaurus","Nom_scientifique": "Triunfosaure leonardii","etymologie": "Lézard du bassin de Triunfo  ",
+    "classification": "Sauropode","sous_classification": "Titanosaurie","espèces": 1,"Epoque": "Crétacé(145-130 Ma.)",
+    "Longueur_en_m": "NR","Hauteur_en_m": "NR","Poids_en_tonnes": "NR",
+    "Localisation": "Amérique du Sud : Brésil","Régime_alimentaire": "végétivore","decouverte": "2017","notes": "not yet"
+  },
+  {
+    "nom": "Jainosaure","Nom_scientifique": "Jainosaurus septentrionalis","etymologie": "Lézard de Mr Jain  ",
+    "classification": "Sauropode","sous_classification": "Titanosaurie","espèces": 1,"Epoque": "Crétacé(68 Ma.)",
+    "Longueur_en_m": "NR","Hauteur_en_m": "NR","Poids_en_tonnes": "NR",
+    "Localisation": "Asie : Inde, Chine","Régime_alimentaire": "végétivore","decouverte": "1933","notes": "not yet"
+  },
+  {
+    "nom": "Austrosaurus","Nom_scientifique": "Austrosaurus mckillopi","etymologie": "Lézard du sud",
+    "classification": "Sauropode","sous_classification": "Titanosaurie","espèces": 1,"Epoque": "Crétacé(112-105 Ma.)",
+    "Longueur_en_m": "NR","Hauteur_en_m": "NR","Poids_en_tonnes": "NR",
+    "Localisation": "Australie","Régime_alimentaire": "végétivore","decouverte": "1933","notes": "not yet"
+  },
+  {
+    "nom": "Borealosaurus","Nom_scientifique": "Borealosaurus wimani","etymologie": "Lézard du sud",
+    "classification": "Sauropode","sous_classification": "Titanosaurie","espèces": 1,"Epoque": "Crétacé(95-90 Ma.)",
+    "Longueur_en_m": "NR","Hauteur_en_m": "NR","Poids_en_tonnes": "NR",
+    "Localisation": "Asie : Chine","Régime_alimentaire": "végétivore","decouverte": "2004","notes": "not yet"
+  },
+  {
+    "nom": "Atacamatitan","Nom_scientifique": "Atacamatitan chilensis","etymologie": " titan du désert d'Atacama",
+    "classification": "Sauropode","sous_classification": "Titanosaurie","espèces": 1,"Epoque": "Crétacé(100-68 Ma.)",
+    "Longueur_en_m": "NR","Hauteur_en_m": "NR","Poids_en_tonnes": "8-16",
+    "Localisation": "Amérique du Sud : Chili","Régime_alimentaire": "végétivore","decouverte": "2011","notes": "not yet"
+  },
+  {
+    "nom": "Barrosasaurus","Nom_scientifique": "Barrosasaurus casamiquelai ","etymologie": " lézard de Sierra Barrosa",
+    "classification": "Sauropode","sous_classification": "Titanosaurie","espèces": 1,"Epoque": "Crétacé(100-66 Ma.)",
+    "Longueur_en_m": "18","Hauteur_en_m": "NR","Poids_en_tonnes": "14",
+    "Localisation": "Amérique du Sud : Argentine","Régime_alimentaire": "végétivore","decouverte": "2009","notes": "not yet"
+  },
+  {
+    "nom": "Xianshanosaurus","Nom_scientifique": "Xianshanosaurus shijiagouensis","etymologie": " Lézard de la montagne de Xian",
+    "classification": "Sauropode","sous_classification": "Titanosaurie","espèces": 1,"Epoque": "Crétacé(145-100 Ma.)",
+    "Longueur_en_m": "NR","Hauteur_en_m": "NR","Poids_en_tonnes": "NR",
+    "Localisation": "Chine : henan","Régime_alimentaire": "végétivore","decouverte": "2009","notes": "not yet"
+  },
+  {
+    "nom": "Vahiny","Nom_scientifique": "Vahiny depereti","etymologie": " Voyageur",
+    "classification": "Sauropode","sous_classification": "Titanosaurie","espèces": 1,"Epoque": "Crétacé(70-66 Ma.)",
+    "Longueur_en_m": "NR","Hauteur_en_m": "NR","Poids_en_tonnes": "NR",
+    "Localisation": "Afrique : Madagascar","Régime_alimentaire": "végétivore","decouverte": "2014","notes": "not yet"
+  },
+  {
+    "nom": "Aegyptosaurus","Nom_scientifique": "Aegyptosaurus baharijensis","etymologie": " Lézard d'Egypte",
+    "classification": "Sauropode","sous_classification": "Titanosaurie","espèces": 1,"Epoque": "Crétacé(100-94 Ma.)",
+    "Longueur_en_m": "NR","Hauteur_en_m": "NR","Poids_en_tonnes": "NR",
+    "Localisation": "Afrique : Egypte, Niger","Régime_alimentaire": "végétivore","decouverte": "1932","notes": "not yet"
+  },
+  {
+    "nom": "Adamantisaurus","Nom_scientifique": "Adamantisaurus mezzalirai","etymologie": " Lézard de la formation d'Adamantina",
+    "classification": "Sauropode","sous_classification": "Titanosaurie","espèces": 1,"Epoque": "Crétacé(75 Ma.)",
+    "Longueur_en_m": "13-18","Hauteur_en_m": "NR","Poids_en_tonnes": "15",
+    "Localisation": "Amérique du Sud : Brésil","Régime_alimentaire": "végétivore","decouverte": "2006","notes": "not yet"
+  },
+  {
+    "nom": "Qingxiusaure","Nom_scientifique": "Qingxiusaurus youjiangensis","etymologie": "Lézard Qingxiu,un paysage pittoresque de montagnes et d'eau dans le Guangxi",
+    "classification": "Sauropode","sous_classification": "Titanosaurie","espèces": 1,"Epoque": "Crétacé(72-66 Ma.)",
+    "Longueur_en_m": "NR","Hauteur_en_m": "NR","Poids_en_tonnes": "NR",
+    "Localisation": "Chine","Régime_alimentaire": "végétivore","decouverte": "2008","notes": "not yet"
+  },
+  {
+    "nom": "Sonidosaurus","Nom_scientifique": "Sonidosaurus saihangaobiensis","etymologie": "Lézard de Sonid",
+    "classification": "Sauropode","sous_classification": "Titanosaurie","espèces": 1,"Epoque": "Crétacé(95-80 Ma.)",
+    "Longueur_en_m": "9","Hauteur_en_m": "NR","Poids_en_tonnes": "NR",
+    "Localisation": "Asie: Mongolie","Régime_alimentaire": "végétivore","decouverte": "2006","notes": "not yet"
+  },
+  {
+    "nom": "Magyarosaurus","Nom_scientifique": "Magyarosaurus dacus","etymologie": "Lézard magyar",
+    "classification": "Sauropode","sous_classification": "Titanosaurie","espèces": 3,"Epoque": "Crétacé(71-66 Ma.)",
+    "Longueur_en_m": "6","Hauteur_en_m": "2","Poids_en_tonnes": "1",
+    "Localisation": "Europe : Roumanie","Régime_alimentaire": "végétivore","decouverte": "1915","notes": "not yet"
+  },
+  {
+    "nom": "Laplatasaurus","Nom_scientifique": "Laplatasaurus araukanicus","etymologie": "Lézard de La Plata",
+    "classification": "Sauropode","sous_classification": "Titanosaurie","espèces": 1,"Epoque": "Crétacé(80-70 Ma.)",
+    "Longueur_en_m": "18","Hauteur_en_m": "NR","Poids_en_tonnes": "NR",
+    "Localisation": "Amérique du Sud : Argentine","Régime_alimentaire": "végétivore","decouverte": "1929","notes": "not yet"
+  },
+  {
+    "nom": "Laplatasaurus","Nom_scientifique": "Karongasaurus gittelmani","etymologie": "Lézard de La Plata",
+    "classification": "Sauropode","sous_classification": "Titanosaurie","espèces": 1,"Epoque": "Crétacé(80-70 Ma.)",
+    "Longueur_en_m": "18","Hauteur_en_m": "NR","Poids_en_tonnes": "NR",
+    "Localisation": "Amérique du Sud : Argentine","Régime_alimentaire": "végétivore","decouverte": "1929","notes": "not yet"
+  },
+]
+
+
+
+
+('Karongasaurus gittelmani')
+('Jiutaisaurus xidiensis')
+('Argyrosaurus superbus')
+('Jiangshanosaurus lixianensis')
+('Epachthosaurus sciuttoi')
+('Dreadnoughtus schrani')
+('Elaltitan lilloi')
+('Bonitasaura salgadoi')
+('Baurutitan britoi')
+('Austroposeidon magnificus')
+('Baurutitan britoi')
+('Paludititan')
+('Lohuecotitan pandafilandi')
+('Malawisaurus dixeyi')
+('Mnyamawamtuka moyowamkia')
+('Mansourasaurus shahinae')
+('Notocolossus gonzalezparejasi')
+('Narambuenatitan')
+('Trigonosaurus pricei')
+('Peiropolis titanosaur')
+('Tengrisaurus starkovi')
+('Sarmientosaurus musacchioi')
+('Rukwatitan bisepultus')
+('Pellegrinisaurus')
+('Pellegrinisaurus powelli')
+('Titanosaurus araukanicus')
+('Quetecsaurus rusconii')
+('Patagotitan mayorum')
+('Mendozasaurus neguyelap')
+('Futalognkosaurus')
+('Drusilasaura')
+('Drusilasaura deseadensis')
+('Lirainosaurus astibiae')
+('Garrigatitan meridionalis')
+('Atsinganosaurus velauciensis')
+('Ampelosaurus atacis')
+('Tapuiasaurus macedoi')
+('Rapetosaurus krausei')
+('Quaesitosaurus orientalis')
+('Nemegtosaurus mongoliensis')
+('Opisthocoelicaudia')
+('Titanosaurus colberti')
+('Isisaurus colberti')
+('Argentinosaurus huinculensis')
+('Traukutitan ')
+('Rinconsaurus caudamirus')
+('Muyelensaurus pecheni')
+('Gondwanatitan faustoi')
+('Aeolosaurus colhuehuapensis')
+('Aeolosaurus maximus')
+('Aeolosaurus rionegrinus')
+('Arrudatitan maximus')
+('Shingopana songwensis')
+('Pitekunsaurus')
+('Panamericansaurus')
+('Overosaurus paradasorum')
+('Maxakalisaurus topai')
+('Marisaurus')
+('Balochisaurus malkani')
+('Zhuchengtitan zangjiazhuangensis')
+('Yongjinglong datangi')
+('Alamosaurus sanjuanensis')
+(' Neuquensaurus austalis')
+(' Loricosaurus scutatus')
+('Loricosaurus noricus')
+('Uberabatitan')
+('Yamanasaurus lojaensis')
+('Rocasaurus muniozi')
+('Brasilotitan')
+('Bonatitan reigi')
+('Macrurosaurus semnus')
+('Bruhathkayosaurus matleyi')
+('Titanosaurus blanfordi')
+('Mongolosaurus')
+('Iuticosaurus')
+('Hypselosaurus')
+('Clasmodosaurus spatula')
+('Campylodoniscus')
+('Ultrasaurus')
+('Bellusaurus sui')
+('Dashanpusaurus dongi')
+('Tehuelchesaurus benitezii')
+('Oplosaurus')
+('Cathetosaurus lewisi')
+('Camarasaurus lewisi')
+('Brontomerus mcintoshi')
+('Aragosaurus ischiaticus')
+('Zigongosaurus fuxiensis')
+('Yuanmousaurus jingyiensis')
+('Xinjiangtitan')
+('Tonganosaurus')
+('Tienshanosaurus chitaiensis')
+('Qijianglong')
+('Omeisaurus')
+('Mamenchisaurus')
+('Hudiesaurus')
+('Huangshanlong anhuiensis')
+('Eomamenchisaurus yuanmouensis')
+('Datousaurus bashanensis')
+('Chuanjiesaurus')
+('Ultrasaurus')
+('Europatitan')
+('Nopcsaspondylus alarconensis')
+
+
+export default sauropodes;
