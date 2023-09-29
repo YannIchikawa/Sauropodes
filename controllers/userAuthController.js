@@ -7,6 +7,10 @@ const userAuthController = {
   renderSignUpPage(req, res) {
     res.render('signup');
   },
+
+  renderRecherchePage(req, res) {
+    res.render('recherche');
+  },
 };
 
 module.exports = userAuthController;

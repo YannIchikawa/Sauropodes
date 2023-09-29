@@ -4,7 +4,10 @@
   "description": "une base de données concernant la famille des sauropodes",
   "main": "index.js",
   "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
     "dotenv": "^16.3.1",
+    "ejs": "^3.1.9",
     "eslint": "^8.47.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "express": "^4.18.2",
@@ -15,8 +18,13 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "npx nodemon"
+    "dev": "npx nodemon index.js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Yann Ichikawa",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-junit": "^16.0.0",
+    "supertest": "^6.3.3"
+  }
 }

@@ -1,35 +1,65 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-<H1> L'allosaure vous attrapera si vous ne vous connectez pas</H1>
-
-<form class="#" method = "POST">
-<label class ="form-control h4" for = "firstname">Prénom</label>
-<input class ="form-control mb-4" type="firstname" id="firstname"name="firstname" placeholder="Prénom"
-
-<label class ="form-control h4" for = "lastname">Nom</label>
-<input class ="form-control mb-4" type="lastname" id="lastname"name="lastname" placeholder="Nom"
-
-<label class ="form-control h4" for = "email">Email</label>
-<input class ="form-control mb-4" type="email" id="email"name="email" placeholder="Email"
-
-<label class ="form-control h4" for = "password">Mot de passe</label>
-<input class ="form-control mb-4" type="password" id="password"name="password" placeholder="******"
-
-<label class ="form-control h4" for = "password">Mot de passe</label>
-<input class ="form-control mb-4" type="password" id="password"name="password" placeholder="******"
-
-</form>
+<%- include('partials/header') %>
 
 
+<H1> Quelqu'un ou quelque chose est déjà passé par là !</H1>
 
+<div class="container2">
+    <div class="image-column2">
+        <div class="traces">
+            <img src="https://www.sciencesetavenir.fr/assets/img/2022/03/09/cover-r4x3w1200-6228826deacf6-20220301-on-fossilizedprint.jpg" alt="Image de traces fossiles">
+        </div>
+    </div>
+    <div class="form-column2">
+        <p>Il y a très longtemps, un sauropode est venu s'inscrire, Il a évidemment pris beaucoup de place ! Mais maintenant, il a libéré le passage et votre tour vient d'arriver. 
+            N'hésitez pas à vous inscrire, et surtout, indiquez nous quel est votre sauropode préféré !</p>
 
+        <form method="POST" action="/register">
+            <label for="firstName">Votre prénom:</label>
+            <input type="text" id="firstName" name="firstName" required>
+
+            <label for="lastName">Votre nom:</label>
+            <input type="text" id="lastName" name="lastName" required>
+
+            <label for="email">Votre E-mail:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="confirmEmail">Confirmez votre E-Mail :</label>
+            <input type="email" id="confirmEmail" name="confirmEmail" required>
+
+            <label for="password">Mot de passe:</label>
+            <input type="password" id="password" name="password" required>
+
+            <label for="confirmPassword">Confirmez votre mot de passe :</label>
+            <input type="password" id="confirmPassword" name="confirmPassword" required>
+
+            <label for="favoriteDinosaur">Sauropode préféré:</label>
+            <select id="favoriteDinosaur" name="favoriteDinosaur">
+                <option value="Brachiosaurus">Brachiosaurus</option>
+                <option value="Diplodocus">Diplodocus</option>
+                <option value="Argentinosaurus">Argentinosaurus</option>
+                <option value="Apatosaurus">Apatosaurus</option>
+                <option value="Europasaurus">Europasaurus</option>
+                <option value="Brontosaurus">Brontosaurus</option>
+                <option value="Malawisaurus">Malawisaurus</option>
+                <option value="Nigersaurus">Nigersaurus</option>
+                <option value="Supersaurus">Supersaurus</option>
+                <option value="Cetiosaurus">Cetiosaurus</option>
+                <!-- Ajoutez d'autres options ici -->
+            </select>
+
+            <button type="submit">S'inscrire</button>
+        </form>
+    </div>
+</div>
 </body>
 </html>
+
+
+
+
+
+
+
+        </body>
+
+        </html>

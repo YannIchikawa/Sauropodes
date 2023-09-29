@@ -1,0 +1,15 @@
+<%- include('partials/header') %>
+
+<div id="results">
+  <% if (results && results.length > 0) { %>
+      <h2>Résultats de la recherche :</h2>
+      <ul>
+          <% results.forEach((result) => { %>
+              <li>Nom: <%= result.nom %>, Nom Scientifique: <%= result.nom_scientifique %></li>
+          <% }); %>
+      </ul>
+  <% } else { %>
+      <p>Aucun résultat trouvé.</p>
+  <% } %>
+</div>
+
