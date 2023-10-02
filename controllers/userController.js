@@ -1,5 +1,6 @@
 const bcrypt = require('bcrypt');
 const { Pool } = require('pg');
+const jest = require('../helpers/jest.config');
 
 const pool = new Pool({
   // Configuration de la connexion à PostgreSQL

@@ -1310,29 +1310,202 @@
     "decouverte": "2014",
     "notes": "not yet"
   },
+  {
+    "nom": "Elaltitan",
+    "Nom_scientifique": " Elaltitan lilloi",
+    "etymologie": "Titan Elal ( divinités locales) de mr Lillo",
+    "classification": "Sauropode",
+    "sous_classification": "Titanosaure",
+    "espèces": 1,
+    "Epoque": "Crétacé(96-89 Ma.)",
+    "Longueur_en_m": "NR",
+    "Hauteur_en_m": "NR",
+    "Poids_en_tonnes": "42",
+    "Localisation": "Argentine",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "2012",
+    "notes": "not yet"
+  },
+  {
+    "nom": "Bonitasaura ",
+    "Nom_scientifique": " Bonitasaura salgadoi",
+    "etymologie": "Titan des strates de Bonita de mr Salgado",
+    "classification": "Sauropode",
+    "sous_classification": "Titanosaure",
+    "espèces": 1,
+    "Epoque": "Crétacé(86-83 Ma.)",
+    "Longueur_en_m": "10",
+    "Hauteur_en_m": "4",
+    "Poids_en_tonnes": "NR",
+    "Localisation": "Argentine",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "2004",
+    "notes": "not yet"
+  },
+  {
+    "nom": "Baurutitan",
+    "Nom_scientifique": " Baurutitan britoi",
+    "etymologie": "Titan de Baaru britanique",
+    "classification": "Sauropode",
+    "sous_classification": "Titanosaure",
+    "espèces": 1,
+    "Epoque": "Crétacé(70-66 Ma.)",
+    "Longueur_en_m": "14",
+    "Hauteur_en_m": "3.5",
+    "Poids_en_tonnes": "NR",
+    "Localisation": "Amérique du Sud : Brésil",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "2005",
+    "notes": "not yet"
+  },
+  {
+    "nom": "Austroposeidon",
+    "Nom_scientifique": "Austroposeidon magnificus",
+    "etymologie": "magnifique Poseidon du sud",
+    "classification": "Sauropode",
+    "sous_classification": "Titanosaure",
+    "espèces": 1,
+    "Epoque": "Crétacé(72 Ma.)",
+    "Longueur_en_m": "25",
+    "Hauteur_en_m": "NR",
+    "Poids_en_tonnes": "NR",
+    "Localisation": "Amérique du Sud : Brésil",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "2016",
+    "notes": "not yet"
+  },
+  {
+    "nom": "Paludititan",
+    "Nom_scientifique": "Paludititan nalatzensis",
+    "etymologie": "Titan des Marais trouvé à nalat-vat",
+    "classification": "Sauropode",
+    "sous_classification": "Titanosaure",
+    "espèces": 1,
+    "Epoque": "Crétacé(70-66 Ma.)",
+    "Longueur_en_m": "6",
+    "Hauteur_en_m": "NR",
+    "Poids_en_tonnes": "1",
+    "Localisation": "Europe : Roumanie",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "2010",
+    "notes": "not yet"
+  },
+  {
+    "nom": "Lohuecotitan",
+    "Nom_scientifique": "'Lohuecotitan pandafilandi'",
+    "etymologie": "Titan du lieu de LoHuelco, du nom de pandafilando, personnage de Don quichotte",
+    "classification": "Sauropode",
+    "sous_classification": "Titanosaure",
+    "espèces": 1,
+    "Epoque": "Crétacé(72 Ma.)",
+    "Longueur_en_m": "NR",
+    "Hauteur_en_m": "NR",
+    "Poids_en_tonnes": "NR",
+    "Localisation": "Europe : Espagne",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "2016",
+    "notes": "not yet"
+  },
+  {
+    "nom": "Malawisaurus",
+    "Nom_scientifique": "Malawisaurus dixeyi",
+    "etymologie": "Lézard du Malawi de Monsieur Dixei",
+    "classification": "Sauropode",
+    "sous_classification": "Titanosaure",
+    "espèces": 1,
+    "Epoque": "Crétacé(121-113 Ma.)",
+    "Longueur_en_m": "15",
+    "Hauteur_en_m": "2.5",
+    "Poids_en_tonnes": "10",
+    "Localisation": "Afrique : Malawi",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "1928",
+    "notes": "not yet"
+  },
+  {
+    "nom": "Mnyamawamtuka",
+    "Nom_scientifique": "Mnyamawamtuka moyowamkia",
+    "etymologie": " bête du drainage de la rivière Mtuka, coeur de la queue",
+    "classification": "Sauropode",
+    "sous_classification": "Titanosaure",
+    "espèces": 1,
+    "Epoque": "Crétacé(110-100 Ma.)",
+    "Longueur_en_m": "8",
+    "Hauteur_en_m": "NR",
+    "Poids_en_tonnes": "1.5",
+    "Localisation": "Afrique : Tanzanie",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "2019",
+    "notes": "not yet"
+  },
+  {
+    "nom": "Mansourasaurus",
+    "Nom_scientifique": "Mansourasaurus shahinae",
+    "etymologie": "Lézard de Mansoura",
+    "classification": "Sauropode",
+    "sous_classification": "Titanosaure",
+    "espèces": 1,
+    "Epoque": "Crétacé(74-72 Ma.)",
+    "Longueur_en_m": "10",
+    "Hauteur_en_m": "NR",
+    "Poids_en_tonnes": "5",
+    "Localisation": "Afrique : Egypte",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "2018",
+    "notes": "not yet"
+  },
+  {
+    "nom": "Notocolossus",
+    "Nom_scientifique": "Notocolossus gonzalezparejasi",
+    "etymologie": "Lézard de Mansoura",
+    "classification": "Sauropode",
+    "sous_classification": "Titanosaure",
+    "espèces": 1,
+    "Epoque": "Crétacé(86 Ma.)",
+    "Longueur_en_m": "28",
+    "Hauteur_en_m": "NR",
+    "Poids_en_tonnes": "40",
+    "Localisation": "Argentine",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "2016",
+    "notes": "not yet"
+  },
+  {
+    "nom": "Narambuenatitan",
+    "Nom_scientifique": "Palomoi Narambuenatitan",
+    "etymologie": "Titan de Mr Narambuena et de Mr Palomo",
+    "classification": "Sauropode",
+    "sous_classification": "Titanosaure",
+    "espèces": 1,
+    "Epoque": "Crétacé(83-72 Ma.)",
+    "Longueur_en_m": "NR",
+    "Hauteur_en_m": "NR",
+    "Poids_en_tonnes": "NR",
+    "Localisation": "Argentine",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "2011",
+    "notes": "not yet"
+  },
+  {
+    "nom": "Opisthocoelicaudia",
+    "Nom_scientifique": "Opisthocoelicaudia skarzynskii",
+    "etymologie": "Queue de la cavité supérieure",
+    "classification": "Sauropode",
+    "sous_classification": "Titanosaure",
+    "espèces": 1,
+    "Epoque": "Crétacé(70 Ma.)",
+    "Longueur_en_m": "13",
+    "Hauteur_en_m": "3",
+    "Poids_en_tonnes": "8",
+    "Localisation": "Asie: Mongolie",
+    "Régime_alimentaire": "végétivore",
+    "decouverte": "1977",
+    "notes": "not yet"
+  },
 ]
 
 
-
-
-('Karongasaurus gittelmani')
-('')
-('')
-('')
-('Epachthosaurus sciuttoi')
-('')
-('Elaltitan lilloi')
-('Bonitasaura salgadoi')
-('Baurutitan britoi')
-('Austroposeidon magnificus')
-('Baurutitan britoi')
-('Paludititan')
-('Lohuecotitan pandafilandi')
-('Malawisaurus dixeyi')
-('Mnyamawamtuka moyowamkia')
-('Mansourasaurus shahinae')
-('Notocolossus gonzalezparejasi')
-('Narambuenatitan')
+Opisthocoelicaudia
 ('Trigonosaurus pricei')
 ('Peiropolis titanosaur')
 ('Tengrisaurus starkovi')
