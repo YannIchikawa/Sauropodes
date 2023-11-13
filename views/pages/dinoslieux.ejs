@@ -1,0 +1,12 @@
+<%- include('partials/header') %>
+
+<h1>Liste des Sauropodes par Continent</h1>
+<ul>
+    <% dinosLieux.forEach(dino => { %>
+        <li><%= dino.nom %> - <%= dino.continent %> - <%= dino.endroit %></li>
+    <% }); %>
+</ul>
+</body>
+</html>
+
+<%- include('partials/footer') %>

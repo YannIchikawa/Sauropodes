@@ -1,295 +1,357 @@
-button {
-  cursor: pointer;
-}
-
-
-a {
-  cursor: pointer;
-}
-
-.navbar {
-  background-color: rgb(88, 103, 89);
-  padding: 2em;
-  text-align: center;
-  display: flex; /* Utilisation de flexbox pour aligner les éléments horizontalement */
-  justify-content: flex-start; /* Espace équitablement les éléments horizontalement */
-  align-items: center; /* Centre les éléments verticalement */
-  flex-wrap: nowrap;
-  padding-left: 20em;
-}
-
-.boutonAccueil {
-  border: 0;
-  line-height: 2.5;
-  padding: 0 20px;
-  font-size: 1rem;
-  text-align: center;
-  color: #fff;
-  text-shadow: 1px 1px 1px #000;
-  border-radius: 10px;
-  background-color: rgb(116, 239, 71);
-  background-image: linear-gradient(
-    to top left,
-    rgba(0, 0, 0, 0.2),
-    rgba(0, 0, 0, 0.2) 30%,
-    rgba(0, 0, 0, 0)
-  );
-  box-shadow: inset 2px 2px 3px rgba(255, 255, 255, 0.6),
-    inset -2px -2px 3px rgba(0, 0, 0, 0.6);
-  transition: all 0.2s; /* Ajoutez une transition pour l'effet enfoncé */
-}
-
-.boutonAccueil:active,
-.boutonAccueil:focus {
-  transform: translateY(2px); /* Déplace légèrement vers le bas lorsqu'on clique ou met en focus */
-  box-shadow: none; /* Supprimez l'ombre pour un effet enfoncé */
-}
-
-
-.boutonRecherche {
-  border: 0;
-  line-height: 2.5;
-  padding: 0 20px;
-  font-size: 1rem;
-  text-align: center;
-  color: #fff;
-  text-shadow: 1px 1px 1px #000;
-  border-radius: 10px;
-  background-color: rgba(116, 239, 71);
-  background-image: linear-gradient(
-    to top left,
-    rgba(0, 0, 0, 0.2),
-    rgba(0, 0, 0, 0.2) 30%,
-    rgba(0, 0, 0, 0)
-  );
-  box-shadow: inset 2px 2px 3px rgba(255, 255, 255, 0.6),
-    inset -2px -2px 3px rgba(0, 0, 0, 0.6);
-}
-
-.boutonRecherche:active,
-.boutonRecherche:focus {
-  transform: translateY(2px); /* Déplace légèrement vers le bas lorsqu'on clique ou met en focus */
-  box-shadow: none; /* Supprimez l'ombre pour un effet enfoncé */
-}
-
-.boutonEnregistrement {
-  border: 0;
-  line-height: 2.5;
-  padding: 0 20px;
-  font-size: 1rem;
-  text-align: center;
-  color: #fff;
-  text-shadow: 1px 1px 1px #000;
-  border-radius: 10px;
-  background-color: rgba(116, 239, 71);
-  background-image: linear-gradient(
-    to top left,
-    rgba(0, 0, 0, 0.2),
-    rgba(0, 0, 0, 0.2) 30%,
-    rgba(0, 0, 0, 0)
-  );
-  box-shadow: inset 2px 2px 3px rgba(255, 255, 255, 0.6),
-    inset -2px -2px 3px rgba(0, 0, 0, 0.6);
-  transition: all 0.2s
-}
-
-.boutonEnregistrement:active,
-.boutonEnregistrement:focus {
-  transform: translateY(2px); /* Déplace légèrement vers le bas lorsqu'on clique ou met en focus */
-  box-shadow: none; /* Supprimez l'ombre pour un effet enfoncé */
-}
-
-.boutonInscription {
-  border: 0;
-  line-height: 2.5;
-  padding: 0 20px;
-  font-size: 1rem;
-  text-align: center;
-  color: #fff;
-  text-shadow: 1px 1px 1px #000;
-  border-radius: 10px;
-  background-color: rgba(116, 239, 71);
-  background-image: linear-gradient(
-    to top left,
-    rgba(0, 0, 0, 0.2),
-    rgba(0, 0, 0, 0.2) 30%,
-    rgba(0, 0, 0, 0)
-  );
-  box-shadow: inset 2px 2px 3px rgba(255, 255, 255, 0.6),
-    inset -2px -2px 3px rgba(0, 0, 0, 0.6);
-  transition: all 0.2s
-}
-
-.boutonInscription:active,
-.boutonInscription:focus {
-  transform: translateY(2px); /* Déplace légèrement vers le bas lorsqu'on clique ou met en focus */
-  box-shadow: none; /* Supprimez l'ombre pour un effet enfoncé */
-}
-
-.boutonEntrée {
-  border: 0;
-  line-height: 4;
-  padding: 0 20px;
-  font-size: 1rem;
-  text-align: center;
-  color: #fff;
-  text-shadow: 1px 1px 1px #000;
-  border-radius: 10px;
-  background-color: rgba(116, 239, 71);
-  background-image: linear-gradient(
-    to top left,
-    rgba(0, 0, 0, 0.2),
-    rgba(0, 0, 0, 0.2) 30%,
-    rgba(0, 0, 0, 0)
-  );
-  box-shadow: inset 2px 2px 3px rgba(255, 255, 255, 0.6),
-    inset -2px -2px 3px rgba(0, 0, 0, 0.6);
-  margin-right: 150px;
-}
-.boutonEntrée:active,
-.boutonEntrée:focus {
-  transform: translateY(2px); /* Déplace légèrement vers le bas lorsqu'on clique ou met en focus */
-  box-shadow: none; /* Supprimez l'ombre pour un effet enfoncé */
-}
-
+/* Styles communs */
 h1 {
-  color: rgb(116, 239, 71);
   text-align: center;
-  flex-basis: 100%;
+  color: rgb(149, 241, 9);
+}
+
+.mediaTablette {
+  display: none;
+}
+.menu-deroulant {
+  display: none;
 }
 
 html {
   background-color: rgb(88, 103, 89);
 }
 
+button,
+a {
+  cursor: pointer;
+}
+
+.navbar {
+  background-color: rgb(88, 103, 89);
+  width: 100%;
+  padding: 2em 0;
+  text-align: center;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: nowrap;
+  padding-left: 20em;
+}
+
+.bouton,
+.boutonAccueil,
+.boutonResponsive,
+.boutonRechercheResponsive,
+.boutonEntrée {
+  border: 0;
+  line-height: 2.5;
+  padding: 0 20px;
+  font-size: 1rem;
+  text-align: center;
+  color: #fff;
+  text-shadow: 1px 1px 1px #000;
+  border-radius: 10px;
+  background-color: rgba(116, 239, 71);
+  background-image: linear-gradient(
+    to top left,
+    rgba(0, 0, 0, 0.2),
+    rgba(25, 106, 13, 0.2) 30%,
+    rgba(1, 19, 14, 0)
+  );
+  box-shadow: inset 2px 2px 3px rgba(255, 255, 255, 0.6),
+    inset -2px -2px 3px rgba(0, 0, 0, 0.6);
+  transition: all 0.2s;
+}
+
+.bouton:active,
+.bouton:focus,
+.boutonResponsive:active,
+.boutonResponsive:focus,
+.boutonEntrée:active,
+.boutonEntrée:focus {
+  transform: translateY(2px);
+  box-shadow: none;
+}
+
 .container {
-  display: flex; /* Utilisation d'un conteneur flex pour disposer en colonnes */
-  align-items: flex-start; /* Centre verticalement les éléments */
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  align-items: center;
 }
 
 .column {
-  flex: 1; /* Chaque colonne prendra une part égale de l'espace disponible */
-  padding: 10px; /* Espacement entre les colonnes */
+  width: 80%;
+  height: auto;
+  flex: 1;
+  display: block;
+  flex-direction: row;
 }
 
-img {
-  max-width: 100%; /* Ajuste la largeur maximale de l'image au conteneur */
-  height: auto; /* Maintient le ratio hauteur/largeur */
+img{
   margin-left: 300px;
 }
 
 p {
   color: white;
-  text-size-adjust: 14 px;
+  font-size: 1rem;
+  width: 50%;
+  max-width: 100%;
+  align-items: baseline;
 }
 
-.page2 img {
-  width: 30em;
-  height: 20em;
-  margin: 0.5em;
-  align-items: center;
+li {
+  color: rgb(136, 189, 134);
 }
-
-.image-row {
-  width: 100%;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-}
-
-.image {
-  text-align: center;
-  margin: 0.5em; /* Ajoute un espace autour de chaque groupe (titre, image, lien) */
-}
-
-h2 {
+footer {
   text-align: center;
 }
 
-a {
-  display: block; /* Fait en sorte que les liens occupent toute la largeur disponible */
-  text-align: center; /* Centre le texte des liens */
-}
-
-.container2 {
+/* Media Query pour les écrans plus petits (max-width: 600px) */
+@media screen and (max-width: 600px) {
+  .menu-burger {
     display: flex;
-    justify-content: center;
-    margin-top: 20px;
-}
+    flex-direction: column;
+    cursor: pointer;
+    position: fixed;
+    top: 2.5em;
+    left: 2em;
+    z-index: 1000;
+    max-width: 20%;
+    min-width: 10%;
+  }
 
-/* Style pour la colonne de l'image */
-.image-column2 {
-    flex: 1;
-    padding: 10px;
-    margin-bottom: 20px; /* Ajoute de l'espace en bas de la colonne de l'image */
-}
+  .burger-bar {
+    width: 5em;
+    height: 7px;
+    background-color: #f6e636;
+    margin: 0.5em;
+    transition: 0.4s;
+  }
 
-/* Style pour la colonne du formulaire */
-.form-column2 {
-    flex: 1;
-    padding: 10px;
-}
+  .menu-deroulant {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: none;
+  }
 
-/* Style pour le titre de l'image */
-.traces h2 {
+  .menu-burger.active .menu-deroulant {
+    display: block;
+  }
+
+  .menu-deroulant a:hover {
+    color: #00ff00;
+  }
+
+  .menu-burger.active .barre:nth-child(1) {
+    transform: rotate(-45deg) translate(-5px, 6px);
+  }
+
+  .menu-burger.active .barre:nth-child(2) {
+    opacity: 0;
+  }
+
+  .menu-burger.active .barre:nth-child(3) {
+    transform: rotate(45deg) translate(-5px, -6px);
+  }
+
+  .boutonResponsive,
+  .boutonRechercheResponsive,
+  .rechercheResponsive {
+    display: none;
+  }
+
+  .boutonAccueil {
+    display: inline-block;
+    flex-direction: row;
+    cursor: pointer;
+    width: 10em;
+    height: 5em;
     text-align: center;
-}
-
-/* Style pour l'image */
-.traces img {
-    display: block;
-    margin: 0 auto;
-    max-width: 80%;
-    height: auto;
-}
-
-/* Style pour les labels */
-.container2 label {
-    display: block;
-    margin-bottom: 5px;
-}
-
-
-.container2 button {
-    display: block;
-    margin: 0 auto;
-    margin-left: 300px;
-    border: 0;
-    line-height: 4;
-    padding: 0 20px;
-    font-size: 1rem;
-    text-align: center;
-    color: #fff;
-    text-shadow: 1px 1px 1px #000;
-    border-radius: 10px;
-    background-color: rgba(116, 239, 71);
-    background-image: linear-gradient(
-      to top left,
-      rgba(0, 0, 0, 0.2),
-      rgba(0, 0, 0, 0.2) 30%,
-      rgba(151, 18, 18, 0)
-    );
-    box-shadow: inset 2px 2px 3px rgba(255, 255, 255, 0.6),
-      inset -2px -2px 3px rgba(0, 0, 0, 0.6);
-}
-
-.container2 button:active,
-.container2 button:focus {
-  transform: translateY(2px); /* Déplace légèrement vers le bas lorsqu'on clique ou met en focus */
-  box-shadow: none; /* Supprimez l'ombre pour un effet enfoncé */
-}
-
-.login {
+    margin: auto;
+    align-items: left;
+    overflow: auto;
+  }
+  .container {
+    display: flex;
+    flex-direction: column;
     align-items: center;
-    margin-left: 25em;
+    text-align: center;
+  }
+  .column {
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    align-items: center;
+  }
+  p {
+    width: auto;
+  }
+
+  img {
+    margin-left: 1px;
+  }
+}
+@media screen and (min-width: 600px) and (max-width: 1200px) and (orientation: landscape) {
+  .mediaTablette {
+    position: fixed; /* Fixer le header en place */
+    top: 0; /* Ajuster la position verticale si nécessaire */
+    left: 0; /* Décaler le header vers la gauche */
+    padding: 20px; /* Ajoutez un espace intérieur si nécessaire */
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    width: 80%;
+    height: auto;
+  }
+
+  .boutonResponsive {
+    width: 10em; /* Spécifiez la largeur souhaitée pour les boutons */
+    text-align: center; /* Centrez le texte à l'intérieur du bouton */
+    padding: 10px; /* Ajoutez de l'espace interne pour améliorer l'apparence */
+    margin: 5px;
+  }
+
+  .boutonAccueil {
+    display: flex;
+    width: 10em;
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+  }
+
+  .rechercheResponsive,
+  .boutonRechercheResponsive {
+    display: block; /* Définissez les éléments du formulaire en tant que blocs, ce qui les empilera verticalement */
+    margin: 10px 0; /* Ajoutez de l'espace entre les éléments (10px en haut et en bas) */
+  }
+  .navbar {
+    display: none;
+  }
+
+  footer {
+    display: none;
+  }
+  p {
+    width: 100%;
+  }
+
+  .container {
+    display: flex;
+    flex-direction: column;
+  }
+  .column {
+    flex: 1;
+    padding: 10px;
+    margin-left: 10px; /* Ajoutez une marge de 10px à gauche des éléments .column */
+    width: 50%;
+    flex-direction: column;
+    text-align: center;
+  }
+  h1 {
+    text-align: center;
+    width: 100%;
+  }
 }
 
-.loginimg {
-    width: 48%; /* Réduit la largeur de l'image à 50% de sa taille d'origine */
-    height: auto; /* Permet à la hauteur de l'image de s'ajuster proportionnellement à la largeur */
-    margin-left: 5em;
-}
+@media screen and (min-width: 600px) and (max-width: 1023px) and (orientation: portrait) {
+  .mediaTablette {
+    display: none;
+  }
 
-.card-dino {
-  color:beige
+  .boutonResponsive {
+    width: 10em; /* Spécifiez la largeur souhaitée pour les boutons */
+    text-align: center; /* Centrez le texte à l'intérieur du bouton */
+    padding: 10px; /* Ajoutez de l'espace interne pour améliorer l'apparence */
+    margin: 5px;
+  }
+
+  .boutonResponsive {
+    display: none;
+  }
+
+  h1 {
+    align-items: center;
+    text-align: center;
+  }
+
+  p {
+    display: block;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+  }
+
+  footer {
+    display: none;
+  }
+
+  .menu-burger {
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+    position: fixed;
+    top: 2.5em;
+    left: 2em;
+    z-index: 1000;
+    max-width: 20%;
+    min-width: 10%;
+  }
+
+  .burger-bar {
+    width: 5em;
+    height: 7px;
+    background-color: #f6e636;
+    margin: 0.5em;
+    transition: 0.4s;
+  }
+
+  .menu-deroulant {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: none;
+  }
+
+  .menu-burger.active .menu-deroulant {
+    display: block;
+  }
+
+  .menu-deroulant a:hover {
+    color: #00ff00;
+  }
+
+  .menu-burger.active .barre:nth-child(1) {
+    transform: rotate(-45deg) translate(-5px, 6px);
+  }
+
+  .menu-burger.active .barre:nth-child(2) {
+    opacity: 0;
+  }
+
+  .menu-burger.active .barre:nth-child(3) {
+    transform: rotate(45deg) translate(-5px, -6px);
+  }
+  .boutonAccueil {
+    display: block;
+    width: 10em;
+    text-align: center;
+    align-items: center;
+    padding: 10px;
+    margin: 5px;
+  }
+  .navbar {
+    padding-left: 120px;
+  }
+
+  .container {
+    display: flex;
+    flex-direction: column;
+  }
+  .column {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .boutonEntrée {
+    display: block;
+    text-align: center;
+    width: 20em;
+    margin-left:150px;
+  }
 }

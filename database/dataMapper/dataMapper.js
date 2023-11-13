@@ -1,3 +1,4 @@
+const bcrypt = require('bcrypt');
 const { Pool } = require('pg');
 
 const pool = new Pool();
@@ -12,8 +13,9 @@ const userDataMapper = {
         firstName, lastName, email, password, favoriteDinosaur,
       } = userData;
 
+      // Utilisation d'une requête préparée pour insérer un utilisateur
       const query = `
-        INSERT INTO users (first_name, last_name, email, password, favorite_dinosaur)
+        INSERT INTO users (first_name, last_name, email, hashedpassword, favoriteSauropode)
         VALUES ($1, $2, $3, $4, $5)
         RETURNING *;
       `;

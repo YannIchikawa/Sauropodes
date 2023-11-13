@@ -1,3 +1,4 @@
+const bcrypt = require('bcrypt');
 const userDataMapper = require('../database/dataMapper/dataMapper');
 
 const userAuthController = {
@@ -23,12 +24,12 @@ const userAuthController = {
       if (password !== confirmPassword) {
         throw new Error('Les mots de passe ne correspondent pas.');
       }
-
+      const hashedpassword = await bcrypt.hash(password, 10);
       const newUser = await userDataMapper.createUser({
         firstName,
         lastName,
         email,
-        password,
+        password: hashedpassword,
         favoriteDinosaur,
       });
 
@@ -36,7 +37,7 @@ const userAuthController = {
 
       res.redirect('/confirmation');
     } catch (error) {
-      console.error(error); // Vous pouvez ajouter un journal ici pour enregistrer l'erreur
+      console.error(error);
       res.render('signup', { error: 'Une erreur s\'est produite lors de l\'inscription.' });
     }
   },
